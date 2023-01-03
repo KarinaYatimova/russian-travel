@@ -1,24 +1,23 @@
 @font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../fonts/inter/regular/inter-regular.woff),
-         url(../fonts/inter/regular/inter-regular.woff2);
-  }
-  @font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../fonts/inter/bold/inter-bold.woff),
-         url(../fonts/inter/bold/inter-bold.woff2);
-  }
-  @font-face {
-    font-family: 'Inter';
-    font-style:  normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../fonts/inter/black/inter-black.woff),
-         url(../fonts/inter/black/inter-black.woff2);
-  }
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/inter/regular/inter-regular.woff), url(../fonts/inter/regular/inter-regular.woff2);
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fonts/inter/bold/inter-bold.woff), url(../fonts/inter/bold/inter-bold.woff2);
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../fonts/inter/black/inter-black.woff), url(../fonts/inter/black/inter-black.woff2);
+}
